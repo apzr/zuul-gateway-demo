@@ -1,6 +1,9 @@
 # zuul-gateway-demo
 zuul动态路由demo
 
+## 原项目地址 
+    https://github.com/lexburner/zuul-gateway-demo
+
 前言
 --
 
